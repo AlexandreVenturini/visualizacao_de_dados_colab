@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como atividade prática da disciplina, com o objetivo de aplicar conceitos de análise exploratória de dados utilizando Python no Google Colab.
+Este projeto foi desenvolvido como atividade prática da disciplina de Tópicos Especiais I, com o objetivo de aplicar conceitos de análise exploratória de dados utilizando Python no Google Colab.
 
 A análise foi realizada a partir de um dataset público relacionado à vacinação contra a COVID-19, contendo informações sobre pacientes vacinados, fabricantes das vacinas, municípios e datas de aplicação.
 
